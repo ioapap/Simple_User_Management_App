@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple_User_Management_App/static/css/main.c7a99aea.css",
+    "main.js": "/Simple_User_Management_App/static/js/main.d90b23df.js",
+    "index.html": "/Simple_User_Management_App/index.html",
+    "main.c7a99aea.css.map": "/Simple_User_Management_App/static/css/main.c7a99aea.css.map",
+    "main.d90b23df.js.map": "/Simple_User_Management_App/static/js/main.d90b23df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7a99aea.css",
+    "static/js/main.d90b23df.js"
+  ]
+}
